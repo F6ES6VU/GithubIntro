@@ -7,3 +7,5 @@ Cereals
 Cucumbers
 EggPlants
 English Walnutss
+Garbanzo Beans
+Chips
