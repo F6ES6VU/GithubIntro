@@ -1,3 +1,6 @@
+Shopping List
+-------------------------------------------------
+
 Apples
 Carrots
 Oranges
